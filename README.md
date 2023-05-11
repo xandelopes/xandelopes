@@ -1,16 +1,13 @@
-### Hi there 👋
+# 👋  Olá, seja bem-vindo ao meu perfil do GitHub! 
+Meu nome é Alexandre, sou estudante na Unilasalle-RJ e este é meu perfil no GitHub. Aqui você encontrará alguns dos projetos que trabalhei.
 
-<!--
-**xandelopes/xandelopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🧐 Sobre mim 
+[Linkedin](https://www.linkedin.com/in/alexandre-lopes-barbosa-78901a276/)
+  
+# 🚀 Tecnologias
+Trabalho com várias linguagens e tecnologias, incluindo:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML
+* CSS
+* JS
+* C
